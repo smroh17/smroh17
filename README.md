@@ -1,4 +1,5 @@
-### Hi there 👋
+##### Hi there 👋 Nice to e-meet you!
+##### My name is Jenn Roh 🌱
 
 <!--
 **smroh17/smroh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
